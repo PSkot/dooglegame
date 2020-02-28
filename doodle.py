@@ -15,7 +15,7 @@ boardColor = (0,150,0)
 ballColor = (150, 0, 0)
 gameSpeed = 10
 tileSize = 20
-rowSize = 8
+rowSize = 6
 ballSize = tileSize // 2
 
 clock = pygame.time.Clock()
